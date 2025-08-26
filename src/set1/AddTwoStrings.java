@@ -24,6 +24,8 @@ public class AddTwoStrings {
                     al--; bl--;
                 }
                 result.append(result1);
+
+
             }
 
             System.out.printf("result: %s", result.reverse());
